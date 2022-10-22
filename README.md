@@ -2,7 +2,7 @@
 
 Simple coin flip betting function created with JS.
 
-![Demo Gif](https://tenor.com/bZjLm.gif)
+![Demo Gif]https://media.giphy.com/media/QjkSct4SIKXmmREVHW/giphy.gif)
 
 
 
